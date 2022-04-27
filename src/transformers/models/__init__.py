@@ -101,6 +101,7 @@ from . import (
     retribert,
     roberta,
     roformer,
+    scformer,
     segformer,
     sew,
     sew_d,
